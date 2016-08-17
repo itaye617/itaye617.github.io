@@ -29,12 +29,12 @@
 
 var rules = {
   "~*x Eliza ~*y": [
-    "I'm here to serve you master."
+    "I'm here to serve you."
   ],
   "~*x computer ~*y": [
     "Do computers worry you?",
     "What do you think about machines have to do with your problem?",
-    "Don't you think computers can help people",
+    "Computers are sick!",
     "Why do you mention computers?",
     "What about computers worries you?",
     "What do you think about computers?",
